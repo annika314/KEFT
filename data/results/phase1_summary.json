@@ -1,0 +1,57 @@
+{
+  "GW170817": {
+    "gw_area_90": 5569.972276443908,
+    "combined_area_90": 4139.186434770172,
+    "area_reduction_90": 25.68748587357793,
+    "area_reduction_50": -23.333333333333318,
+    "kl_divergence": 0.5949984383091775,
+    "boost_factor": 220.2636675074993,
+    "prob_ratio_mean": 1.6291858020132641,
+    "num_galaxies": 672,
+    "is_synthetic": true
+  },
+  "GW190425": {
+    "gw_area_90": 5552.5569333057765,
+    "combined_area_90": 5552.5569333057765,
+    "area_reduction_90": 0.0,
+    "area_reduction_50": 0.0,
+    "kl_divergence": -6.748849980998427e-10,
+    "boost_factor": NaN,
+    "prob_ratio_mean": 0.999999999325115,
+    "num_galaxies": 45334,
+    "is_synthetic": true
+  },
+  "Synthetic_01": {
+    "gw_area_90": 5598.298436969785,
+    "combined_area_90": 5598.298436969785,
+    "area_reduction_90": 0.0,
+    "area_reduction_50": 0.0,
+    "kl_divergence": -7.298034960630957e-10,
+    "boost_factor": NaN,
+    "prob_ratio_mean": 0.9999999992701971,
+    "num_galaxies": 20782,
+    "is_synthetic": true
+  },
+  "Synthetic_02": {
+    "gw_area_90": 5527.797770772047,
+    "combined_area_90": 5527.797770772047,
+    "area_reduction_90": 0.0,
+    "area_reduction_50": 0.0,
+    "kl_divergence": -8.908171155827308e-10,
+    "boost_factor": NaN,
+    "prob_ratio_mean": 0.9999999991091828,
+    "num_galaxies": 17127,
+    "is_synthetic": true
+  },
+  "Synthetic_03": {
+    "gw_area_90": 5556.123931297924,
+    "combined_area_90": 5556.123931297924,
+    "area_reduction_90": 0.0,
+    "area_reduction_50": 0.0,
+    "kl_divergence": -8.53376175096752e-10,
+    "boost_factor": NaN,
+    "prob_ratio_mean": 0.9999999991466231,
+    "num_galaxies": 25365,
+    "is_synthetic": true
+  }
+}

@@ -1,0 +1,33 @@
+# Core scientific computing
+numpy>=2.0
+scipy>=1.17.0
+astropy>=7.0
+healpy>=1.19.0
+
+# Gravitational wave tools
+ligo.skymap>=2.5.0
+ligo-gracedb>=2.14.0
+
+# Data processing
+pandas>=2.0.0
+tqdm
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Web requests
+requests
+beautifulsoup4
+lxml
+
+# Configuration and utilities
+pyyaml
+python-dateutil
+
+# Development and testing
+ipython
+jupyter
+notebook
+pytest
+pytest-cov
